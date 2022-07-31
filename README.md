@@ -1,3 +1,4 @@
+Original source: [here](https://github.com/authorkun/obsidian-filenames-to-doc)
 # Obsidian Sample Plugin
 
 This is a sample plugin for Obsidian (https://obsidian.md).
